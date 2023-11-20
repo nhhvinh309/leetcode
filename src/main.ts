@@ -1,4 +1,4 @@
-import { mergeSortedArray } from "./easy";
+import { mergeSortedArray } from './easy';
 
 const nums1 = [1, 2, 3, 0, 0, 0];
 const m = 3;
